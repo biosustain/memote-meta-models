@@ -1,5 +1,7 @@
 # Memote Meta Study Model Collections
 
+[![DOI](https://zenodo.org/badge/180797427.svg)](https://zenodo.org/badge/latestdoi/180797427)
+
 In order to perform the memote meta study, we resorted to various collections of
 genome-scale metabolic reconstructions and models. You can find the models in
 [`agora/models`](agora/models).
